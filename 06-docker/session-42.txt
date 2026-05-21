@@ -54,7 +54,8 @@ DOCKER INSTALLATION
 ================
 DOCKER COMMANDS
 ================
-{-- docker ps                                  --> checks the running containers
+{
+-- docker ps                                  --> checks the running containers
 -- docker ps -a                               --> checks the all containers  (-a attaching )
 -- docker ps -a -q                            --> display all the list of containers
 -- docker images                              --> displays the images available in server
